@@ -1,3 +1,4 @@
 function lightsOn(){
+    document.getElementyId(
     
 }
