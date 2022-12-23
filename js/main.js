@@ -1,4 +1,4 @@
 function lightsOn(){
-    document.getElementyId("id-js").
+    documentgetElementyId("id-js").
     
 }
